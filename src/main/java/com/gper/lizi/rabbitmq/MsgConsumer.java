@@ -8,7 +8,6 @@ import com.rabbitmq.client.ConnectionFactory;
 import com.rabbitmq.client.Consumer;
 import com.rabbitmq.client.DefaultConsumer;
 import com.rabbitmq.client.Envelope;
-import com.sun.org.apache.xerces.internal.dom.PSVIAttrNSImpl;
 
 import java.io.IOException;
 
